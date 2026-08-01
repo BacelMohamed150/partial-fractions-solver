@@ -1,5 +1,5 @@
 I got this idea when I was solving this kind of integration:
-$$\int \frac{1}{x^n + 1} \, dx$$
+$$\int \frac{1}{x^n + 1} \ dx$$
 
 At the same period, I was learning how to solve this linear system: 
 $$\mathbf{A}\mathbf{x} = \mathbf{b}$$
