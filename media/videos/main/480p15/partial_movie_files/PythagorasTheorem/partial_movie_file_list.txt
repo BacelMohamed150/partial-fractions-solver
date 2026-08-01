@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Admin/Desktop/python/media/videos/main/480p15/partial_movie_files/PythagorasTheorem/1584795214_930836774_223132457.mp4'
+file 'file:C:/Users/Admin/Desktop/python/media/videos/main/480p15/partial_movie_files/PythagorasTheorem/4072820271_1894671157_1639787380.mp4'
+file 'file:C:/Users/Admin/Desktop/python/media/videos/main/480p15/partial_movie_files/PythagorasTheorem/4072820271_3201849554_3323018019.mp4'
+file 'file:C:/Users/Admin/Desktop/python/media/videos/main/480p15/partial_movie_files/PythagorasTheorem/4072820271_420213569_322147962.mp4'
+file 'file:C:/Users/Admin/Desktop/python/media/videos/main/480p15/partial_movie_files/PythagorasTheorem/4072820271_1839128356_1862032097.mp4'
+file 'file:C:/Users/Admin/Desktop/python/media/videos/main/480p15/partial_movie_files/PythagorasTheorem/4072820271_2770105380_3369520620.mp4'
+file 'file:C:/Users/Admin/Desktop/python/media/videos/main/480p15/partial_movie_files/PythagorasTheorem/4072820271_1839128356_4143792401.mp4'
